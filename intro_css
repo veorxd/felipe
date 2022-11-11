@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moto gp</title>
+    <style>
+#motogp {background-color:green;}
+.red {background-color: aqua;}
+
+h1 {background-color: blueviolet;}
+
+    
+
+
+
+    </style>
+</head>
+
+
+<h1>Intro a css</h1>
+
+<body>
+
+
+   
+<h1><em>Introducción a css</em></h1>
+<h2>Selecting by tag name </h2>
+<p> Esta etiqueta sirve para dar una propiedad como el color o el fondo a un elemento de mismo nombre de etiqueta como todos los h2 o h3.<br>
+     </p>
+     <h1>Motogp</h1>
+     <h3>Es la máxima competición mundial de motociclismo de velocidad.</h3>
+<h1>Selecting by id,# </h1>
+<h3>Los selectores de ID de CSS buscan un elemento basado en el contenido del atributo id . El atributo ID del elemento seleccionado debe coincidir exactamente con el valor dado en el selector</h3><br>
+<p id="motogp">Se trata de la categoría "reina" del campeonato, pues en ella compiten las motos de mayor cilindrada. Desde mediados de los 70 hasta el año 2002, la categoría permitía una cilindrada de 500cc sin tener en cuenta si el motor era de dos o cuatro tiempos.</p><br>
+<h1>Selecting by class</h1>
+<h3>El atributo global class es una lista de las clases del elemento separada por espacios . Las clases permiten a CSS y Javascript seleccionar y acceder a elementos específicos a través de los selectores de clase o funciones como el método document</h3>
+<p class="red">Debido a esto, todos los motores eran de dos tiempos gracias a su mayor entrega de potencia a igual cilindrada. En 2002 cambió la reglamentación para facilitar el salto a los cuatro tiempos, probablemente influido por la baja cuota de mercado de las motos de calle de elevada cilindrada y dos tiempos.</p>
+
+
+
+</body>
+</html>

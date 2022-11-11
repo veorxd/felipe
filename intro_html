@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Felipe</title>
+</head>
+<body>
+    <h1>Intro a html</h1>
+
+      <h2>Introducción a html  </h2> <br>
+      <h3>Html boilerplate </h3> <br>
+        <p>es una plantilla HTML, CSS y JavaScript para crear sitios web HTML5 con compatibilidad entre navegadores</p>
+        <h3>h1 a h6</h3>
+        <p>Son los niveles de encabezado , h1 que es el mas importante hasta h6 que es el menos importante. <br>
+        como por ejemplo : Motogp GP, Grand Prix , Gran Premio.</p>
+        <h2>Motogp</h2><br>
+        <p>El Campeonato Mundial de Motociclismo pero que popularmente recibe el nombre de la categoría principal de MotoGP, es la máxima competición mundial de motociclismo de velocidad</p>
+         <h3>Ganadores de los ultimos 3 mundiales</h3>
+         <p>2021 Fabio Quartararo<br>
+            2020 Joan Mir <br>
+            2019 Marc Marquez
+         </p>
+         <h3>La etiqueta br</h3><br>
+         <p>Produce un salto de línea en el texto <br>
+            Motogp es una competición importante <br> 
+            Pero formula 1 también</p>
+            <h3>La etiqueta em</h3>
+            <p>La etiqueta em pone las palabras en cursiva <br>
+            <em>Moto</em> gp</p> <br>
+            <h3>La etiqueta strong</h3> <br>
+            <p>La etiqueta strong pone las palabras en negrita <br>
+            <strong>Moto Gp</strong></p> <br>
+             <h3>La etiqueta ol</h3> <br>
+             <p>La etiqueta ol permite hacer listas<br>
+            <ol><li>2021 Fabio Quartararo</li> <br>
+                    <li>2020 Joan Mir</li> <br>
+                    <li>2019 Marc Marquez</li></ol></p> <br>
+                    <h3>La etiqueta ul </h3><br>
+                    <p>La etiqueta ul permite hacer listas pero con un punto <br>
+                     <ul><li> Joan Mir</li></ul>  <br> 
+                         <ul><li>2019 Marc Marquez</li></ul> <br>
+                          <ul><li>2021 Fabio Quartararo</li></ul> </p> <br>
+                        <h3>La etiqueta Img</h3>
+                        <p>La etiqueta img sirve para insertar imagenes</p> <br>
+
+                      <img src="moto.jpg"> <br>
+                      <img src="motogp.jpg">
+
+
+</body>
+</html>

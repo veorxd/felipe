@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Felipe Lin</title>
+</head>
+
+
+<body>
+    <H1>More html Tags</H1>
+    <h2>Este sitio web es para mas comandos de html</h2>
+
+    <h2>enlace desde texto</h2> 
+    <p>Para insertar un link en Html se utiliza el comando a</p>
+    <a href="index.html">Indice</a>
+
+ <h2>Un enlace desde una imagen</h2>
+ <p>Al poner una imagen dentro de una etiqueta a para convertirla en un enlace, aun debes proporcionar texto de enlace accesible.<br>
+Para saber mas de moto gp pinche en la imagen</p>
+  <a target="motogp.jpg" href="https://es.wikipedia.org/wiki/MotoGP"><img src="motogp.jpg" > </a> 
+
+<h2 id="gp">Un enlace con texto o imagen, absoluto (a una página de fuera del sitio)</h2>
+<p>La etiqueta a y entre la misma colocaremos un texto, que al pinchar en él nos llevara a otra página web, fuera de nuesto sitio</p>
+<a href="https://www.motogp.com/es/calendar">Calendario Motogp</a>
+<h2>Enlace con una imagen relativo</h2>
+<p>Consiste en colocar la etiqueta img entre las cláusulas de apertura y cierre del enlace a, en sustitución del texto ancla habitual.<br>
+    Valentino Rossi (Urbino, Italia; 16 de febrero de 1979) es un expiloto de motociclismo italiano. Ha ganado nueve títulos mundiales en cuatro categorías: 125cc (1997), 250cc (1999), 500cc (2001) y ha sido heptacampeón de la categoría MotoGP (2001 2002, 2003, 2004, 2005, 2008 y 2009).</p>
+<a href="rossi.html">
+    <img src="rossi.jpeg" width="300">
+</a>
+<h2>Enlace que se abre en una ventana nueva</h2>
+<p>Para ello utilizaremos el comando target</p>
+<a target="_blank" href="https://www.mundodeportivo.com/resultados/motor/motogp/circuitos">Circuitos moto gp</a>
+<h2>Enlaces internos</h2>
+<p> Los enlaces internos son enlaces que van de una página a otra dentro del mismo dominio.</p>
+<a href="#gp">Moto gp</a>
+<h2>Tablas en Html</h2>
+<p>Las tablas HTML están pensadas para utilizarse con datos tabulados. Por desgracia, mucha gente utiliza las tablas HTML para hacer compaginaciones de páginas web.</p>
+<table>
+<tr>
+    <th>Año</th>
+    <th>Ganador</th>
+    <th>Marca</th>
+</tr>
+<tbody>
+<tr>
+    <td>2008</td>
+    <td>Valentino Rossi</td> 
+    <td>Yamaha</td> 
+</tr>
+
+</tbody>
+
+<tbody>
+    <tr>
+    <td>2009</td>
+    <td> Valentino Rossi </td>
+    <td>Yamaha</td>
+        </tr>
+    </tbody>
+
+    <tbody>
+        <tr>
+           <td> 2010 </td>
+            <td>Jorge Lorenzo </td>
+            <td>Yamaha</td>
+        </tr>
+
+
+        </tbody>
+    </table>
+    <h2>Comentario</h2>
+    <p>son fragmentos dentro del código que no necesariamente cumplen una función de programación en el sitio web.<br>
+         Simplemente son indicaciones, anotaciones u observaciones <br>
+        Para ver el comentario pulse f12</p>
+        <!--Mi comentario-->
+
+
+
+
+
+</body>
+</html>
